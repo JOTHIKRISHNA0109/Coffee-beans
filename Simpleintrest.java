@@ -1,6 +1,6 @@
 //Java Program to determine the simple intrest.
 import java.util.Scanner;
-public class Main
+public class Simpleintrest
 {
   
 	public static void main(String[] args) {
